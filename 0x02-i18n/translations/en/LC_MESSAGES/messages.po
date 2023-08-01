@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.12.1\n"
 
 msgid "home_title"
-msgstr "Bienvenue chez Holberton'\n'"
+msgstr "Welcome to Holberton'\n'"
 
 msgid "home_header"
-msgstr "Bonjour monde!'\n'"
+msgstr "Hello world!'\n'"
